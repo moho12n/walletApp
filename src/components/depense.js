@@ -3,7 +3,9 @@ import React from "react"
 class Depense extends React.Component {
     render() {
         return (
-            <div></div>
+            <div>
+                <section></section>
+            </div>
         )
     }
 }
